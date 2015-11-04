@@ -30,8 +30,9 @@ in second argument.
 
 Example:-
 To generate class diagram
-
+```command
 java -jar umlparser.jar class "C:\Users\uml-generator-java\Test Classes\class-diagram-test-1" diagram
+```
 
 *^creates diagram.png*
 
@@ -48,8 +49,9 @@ For sequence diagram, additional 2 arguments are required before the name of out
 
 
 To generate sequence diagram
-
+```command
 java -jar umlparser.jar seq "C:\Users\uml-generator-java\Test Classes\sequence-diagram-test-1" Customer depositMoney diagram
+```
 
 *^creates diagram.png*
 ***
