@@ -1,9 +1,9 @@
 # uml-generator-java
 A Parser which converts Java Source Code into a  UML Diagram
 ***
-###Compile Instructions
+### Compile Instructions
 
-####Requirements:
+#### Requirements:
 - Java JDK version 1.8
 - Working internet connection (only for class diagram)
 
@@ -55,7 +55,7 @@ java -jar umlparser.jar seq "C:\Users\uml-generator-java\Test Classes\sequence-d
 
 *^creates diagram.png*
 ***
-###Details of libraries and tools used
+### Details of libraries and tools used
 
 
 There are 2 parts of this UML parser program:
